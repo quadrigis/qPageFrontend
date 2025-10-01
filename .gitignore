@@ -31,3 +31,6 @@ _ReSharper*/
 .idea/
 #Nuget packages folder
 packages/
+next/
+node_modules/
+.next/
