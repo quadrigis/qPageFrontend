@@ -69,7 +69,7 @@ function About() {
           © {new Date().getFullYear()} Quadrigis
         </div>
         <div>
-          Contact: <a href="michael.jedruch@gmail.com">michael.jedruch@gmail.com</a>
+          Contact: <a href="https://michal.jedruch.net">michal.jedruch.net</a>
         </div>
       </footer>
     </div>
